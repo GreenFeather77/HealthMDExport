@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 森林夜幕 Material 3 调色板（深色） -->
+    <color name="md_primary">#93D5AE</color>
+    <color name="md_on_primary">#003920</color>
+    <color name="md_primary_container">#1F533B</color>
+    <color name="md_on_primary_container">#D8F0E0</color>
+
+    <color name="md_secondary">#B4CCBD</color>
+    <color name="md_on_secondary">#20352A</color>
+    <color name="md_secondary_container">#364B40</color>
+    <color name="md_on_secondary_container">#D8EFE0</color>
+
+    <color name="md_tertiary">#F5BB8B</color>
+    <color name="md_on_tertiary">#462A08</color>
+    <color name="md_tertiary_container">#654019</color>
+    <color name="md_on_tertiary_container">#FFDDB8</color>
+
+    <color name="md_background">#101511</color>
+    <color name="md_on_background">#E0E4DE</color>
+    <color name="md_surface">#101511</color>
+    <color name="md_on_surface">#E0E4DE</color>
+    <color name="md_surface_variant">#414942</color>
+    <color name="md_on_surface_variant">#C0CCC2</color>
+    <color name="md_outline">#8A958D</color>
+    <color name="md_outline_variant">#414942</color>
+</resources>
